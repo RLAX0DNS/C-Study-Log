@@ -1,5 +1,8 @@
 # Do It! C++ 완전 정복
 
+이 git 은 Kyunam Cho 의 git 에서 가져온 cpp 의 학습 자료입니다.
+소스 원본은 https://github.com/mystous/DoItCPP 에 있습니다.
+
 
 이 Git Repository는 이지스퍼블리싱의 __Do It!__ 시리즈인 __Do It! C++ 완전 정복__ 서적의 Source Code 파일 및 정오표등을 제공하기 위한 Repository 입니다.<br/>
 * 본문/예제/되새김문제 관련 질문이나 오류 사항은 [이슈 게시판](https://github.com/mystous/DoItCPP/issues)에 올려 주세요. 본문/예제/되새김문제와 관련이 적은 개인/회사 과제 해결에 대해서는 답변이 늦거나 못 드릴 수 있음을 양해 부탁 드립니다.
@@ -30,3 +33,4 @@
 #### 14 새로운 데이터 형식과 라이브러리
 #### 15 새로운 구문 1
 #### 16 새로운 구문 2
+
