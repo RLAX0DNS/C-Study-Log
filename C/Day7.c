@@ -14,7 +14,5 @@ int main ()
     printf ("%f%%\r", data);
     //이렇게 "" 안에 %% 두개가 연달아서 있으면 이걸 그냥 % 부호로 인식, 출력을 % 로 함//
 
-    printf ("start");
-
     return 0;
 }
