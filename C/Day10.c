@@ -32,6 +32,7 @@ int main () {
 
     printf ("%d, %d, %d, %d", result1, reuslt2, result3, A);
     return 0;
+    
 }
 
 //연산자의 연산 우선 순위
